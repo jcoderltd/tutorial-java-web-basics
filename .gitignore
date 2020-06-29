@@ -1,0 +1,8 @@
+*/.gradle/*
+*/.settings/*
+*/build/*
+*/bin/*
+
+example-web/.classpath
+example-web/.project
+
